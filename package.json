@@ -13,5 +13,8 @@
     "chai"
   ],
   "author": "tribhuwan (Hitesh sir)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
 }
