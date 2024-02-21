@@ -12,7 +12,7 @@
     "backend",
     "chai"
   ],
-  "author": "tribhuwan (Hitesh sir)",
+  "author": "tribhuwan/ (Hitesh sir)",
   "license": "ISC",
   "devDependencies": {
     "prettier": "^3.0.3"
